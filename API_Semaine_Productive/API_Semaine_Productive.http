@@ -1,0 +1,6 @@
+@API_Semaine_Productive_HostAddress = http://localhost:5043
+
+GET {{API_Semaine_Productive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
